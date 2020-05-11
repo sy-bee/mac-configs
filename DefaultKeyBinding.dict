@@ -1,0 +1,15 @@
+/* ~/Library/KeyBindings/DefaultKeyBinding.Dict */
+{
+"\UF729" = "moveToBeginningOfLine:";                            /* Home Button*/
+"\UF72B" = "moveToEndOfLine:";                                  /* End Button */
+"$\UF729" = "moveToBeginningOfLineAndModifySelection:";         /* Shift + Home Button */
+"$\UF72B" = "moveToEndOfLineAndModifySelection:";               /* Shift + End Button */
+"^\UF729" = "moveToBeginningOfDocument:";                       /* Ctrl + Home Button */
+"^\UF72B" = "moveToEndOfDocument:";                             /* Ctrl + End Button */
+"$^\UF729" = "moveToBeginningOfDocumentAndModifySelection:";    /* Shift + Ctrl + Home Button */
+"$^\UF72B" = "moveToEndOfDocumentAndModifySelection:";          /* Shift + Ctrl + End Button */
+"^\UF702"  = "moveWordBackward:";                               /* Ctrl  + LeftArrow */
+"^\UF703"  = "moveWordForward:";                                /* Ctrl  + RightArrow */
+"^$\UF702" = "moveWordBackwardAndModifySelection:";             /* Shift + Ctrl  + Leftarrow */
+"^$\UF703" = "moveWordForwardAndModifySelection:";              /* Shift + Ctrl  + Rightarrow */
+}
