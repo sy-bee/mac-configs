@@ -4,12 +4,12 @@
 "\UF72B" = "moveToEndOfLine:";                                  /* End Button */
 "$\UF729" = "moveToBeginningOfLineAndModifySelection:";         /* Shift + Home Button */
 "$\UF72B" = "moveToEndOfLineAndModifySelection:";               /* Shift + End Button */
-"^\UF729" = "moveToBeginningOfDocument:";                       /* Ctrl + Home Button */
-"^\UF72B" = "moveToEndOfDocument:";                             /* Ctrl + End Button */
-"$^\UF729" = "moveToBeginningOfDocumentAndModifySelection:";    /* Shift + Ctrl + Home Button */
-"$^\UF72B" = "moveToEndOfDocumentAndModifySelection:";          /* Shift + Ctrl + End Button */
-"^\UF702"  = "moveWordBackward:";                               /* Ctrl  + LeftArrow */
-"^\UF703"  = "moveWordForward:";                                /* Ctrl  + RightArrow */
-"^$\UF702" = "moveWordBackwardAndModifySelection:";             /* Shift + Ctrl  + Leftarrow */
-"^$\UF703" = "moveWordForwardAndModifySelection:";              /* Shift + Ctrl  + Rightarrow */
+"~\UF729" = "moveToBeginningOfDocument:";                       /* Alt + Home Button */
+"~\UF72B" = "moveToEndOfDocument:";                             /* Alt + End Button */
+"$~\UF729" = "moveToBeginningOfDocumentAndModifySelection:";    /* Shift + Alt + Home Button */
+"$~\UF72B" = "moveToEndOfDocumentAndModifySelection:";          /* Shift + Alt + End Button */
+"~\UF702"  = "moveWordBackward:";                               /* Alt  + LeftArrow */
+"~\UF703"  = "moveWordForward:";                                /* Alt  + RightArrow */
+"~$\UF702" = "moveWordBackwardAndModifySelection:";             /* Shift + Alt  + Leftarrow */
+"~$\UF703" = "moveWordForwardAndModifySelection:";              /* Shift + Alt  + Rightarrow */
 }
