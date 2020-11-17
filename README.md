@@ -14,3 +14,7 @@ VS code shortcuts to resemble linux, add support for tab changes, correct ctrl b
 * Open: Code -> Preferences -> Keyboard shortcuts
 * Click "open keyboard shortcuts (JSON)" to the right on tab panel
 * Add/modify from `keybindings.json`
+
+## Useful apps
+* finicky (https://github.com/johnste/finicky)
+* karabiner elements
