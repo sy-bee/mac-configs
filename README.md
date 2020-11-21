@@ -18,3 +18,5 @@ VS code shortcuts to resemble linux, add support for tab changes, correct ctrl b
 ## Useful apps
 * finicky (https://github.com/johnste/finicky)
 * karabiner elements
+* Charge Limiter
+* Scroll Reverser
