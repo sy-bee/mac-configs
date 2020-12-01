@@ -20,3 +20,7 @@ VS code shortcuts to resemble linux, add support for tab changes, correct ctrl b
 * karabiner elements
 * Charge Limiter
 * Scroll Reverser
+
+## Etc
+# my PS1
+`PS1='\n\D{%Y-%m-%d %H:%M} \u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\n\$ '`
