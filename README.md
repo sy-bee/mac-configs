@@ -20,6 +20,7 @@ VS code shortcuts to resemble linux, add support for tab changes, correct ctrl b
 * karabiner elements
 * Charge Limiter
 * Scroll Reverser
+* WifriedX (https://github.com/mariociabarra/wifriedx)
 
 ## Etc
 # my PS1
