@@ -22,9 +22,10 @@ VS code shortcuts to resemble linux, add support for tab changes, correct ctrl b
 ## Useful apps
 * finicky (https://github.com/johnste/finicky)
 * karabiner elements
-* Charge Limiter
 * Scroll Reverser
-* WifriedX (https://github.com/mariociabarra/wifriedx) or use `sudo ifconfig awdl0 down` and create an app with Automator (https://stackoverflow.com/questions/6442364/running-script-upon-login-mac)
+* bluesnooze
+* ImageOptim
+* OnyX
 
 ## Etc
 # my PS1
