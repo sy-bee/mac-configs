@@ -26,6 +26,7 @@ VS code shortcuts to resemble linux, add support for tab changes, correct ctrl b
 * bluesnooze
 * ImageOptim
 * OnyX
+* Mackup
 
 ## Etc
 # my PS1
